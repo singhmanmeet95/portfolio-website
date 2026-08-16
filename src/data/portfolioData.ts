@@ -7,9 +7,9 @@ export const PERSONAL_INFO = {
   location: 'New Delhi, India',
   email: 'meetusingh2004@gmail.com',
   phone: '+91-8076438849',
-  github: 'https://github.com/manmeet',
-  linkedin: 'https://linkedin.com/in/manmeet',
-  leetcode: 'https://leetcode.com/manmeet',
+  github: 'https://github.com/singhmanmeet95',
+  linkedin: 'https://www.linkedin.com/in/manmeetsinghdev',
+  leetcode: 'https://leetcode.com/u/manmeet_8800',
   about: "Hey, I'm Manmeet. I'm a Computer Science undergrad at DTU who spends way too much time writing TypeScript, optimizing SQL queries, and debugging distributed backends at ungodly hours. I've solved 350+ LeetCode problems (mostly fueled by caffeine and stubbornness), and I love building full-stack web apps that actually stay up under load.",
   status: 'Building at 3 AM • Open to SDE Internships & Software Engineering Roles',
 };
